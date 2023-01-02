@@ -4,7 +4,17 @@
   max-width: 600px;
   height: 450px;
   justify-self: center;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   border-radius: 10px;
   overflow: hidden;
+}
+
+@media screen and (max-width: 640px) {
+  .card {
+    grid-template-columns: 1fr;
+    grid-template-rows: 240px 1fr;
+    max-width: 345px;
+    height: 610px;
+  }
 }

@@ -6,3 +6,10 @@
   font-family: 'Fraunces', serif;
   gap: 20px;
 }
+
+
+@media screen and (max-width: 640px) {
+  .card__prices {
+    margin-top: 22px;
+  }
+}

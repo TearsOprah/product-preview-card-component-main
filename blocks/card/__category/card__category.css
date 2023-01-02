@@ -7,3 +7,9 @@
   letter-spacing: 4.8px;
   color: hsl(228, 12%, 48%);
 }
+
+@media screen and (max-width: 640px) {
+  .card__category {
+    margin-top: 24px;
+  }
+}
