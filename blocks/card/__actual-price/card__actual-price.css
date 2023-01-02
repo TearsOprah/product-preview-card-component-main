@@ -1,0 +1,6 @@
+.card__actual-price {
+  margin: 0;
+  padding: 0;
+  font-size: 32px;
+  color: hsl(158, 36%, 37%)
+}

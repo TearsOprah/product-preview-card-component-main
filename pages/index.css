@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/attribution/attribution.css);
+@import url(../blocks/card/card.css);
+
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__description/card__description.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__button/card__button.css);
+@import url(../blocks/card/__actual-price/card__actual-price.css);
+@import url(../blocks/card/__category/card__category.css);
+@import url(../blocks/card/__info/card__info.css);
+@import url(../blocks/card/__prices/card__prices.css);
+@import url(../blocks/card/__old-price/card__old-price.css);
+
